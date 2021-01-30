@@ -1,0 +1,2 @@
+# my_LSTM_paper
+利用Python中的Keras构建LSTM神经网络进行时间序列预测
